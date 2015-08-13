@@ -55,5 +55,4 @@ i18n.get("SAMPLE_KEY", new Locale("en")); // Returns the English string for the 
 
 i18n.setLocale(new Locale("fr")); // You can set the locale for future calls to .get()
 i18n.get("SAMPLE_KEY"); // Returns the French string for the given key
- 
 ```
